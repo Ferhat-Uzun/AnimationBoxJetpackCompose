@@ -1,1 +1,1 @@
-Animation a box on Jetpack Compose
+Animation a box using Jetpack Compose
